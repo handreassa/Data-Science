@@ -8,6 +8,6 @@ Interest areas: Data pipeline, machine learning, Python, Teradata, SAS, SQL, She
 
 ## Projects:
 
-* Under construction area
+* Finance Data App using Streamlit - [Heroku](https://finance-data-app.herokuapp.com/) - [Source](../finance)  
 
 ---
