@@ -1,5 +1,5 @@
 # Herivelton Andreassa
-<sub>*Data Scientist* at Bradesco</sub>
+<sub>*Data Scientist* at bradesco</sub>
 
 Interest areas: Data pipeline, machine learning, Python, Teradata, SAS, SQL, Shell script, Data Analytics, Big Data, Hive, Spark.
 
@@ -8,6 +8,6 @@ Interest areas: Data pipeline, machine learning, Python, Teradata, SAS, SQL, She
 
 ## Projects:
 
-* Finance Data App using Streamlit - [Heroku](https://finance-data-app.herokuapp.com/) - [Source](../finance)  
+* Finance Data App using Streamlit - [Heroku](https://finance-data-app.herokuapp.com/) - [Source](https://github.com/handreassa/Data-Science/tree/main/finance-data-app)  
 
 ---
