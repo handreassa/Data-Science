@@ -1,4 +1,4 @@
-# Project Finance Data App using Streamlit 
+# Finance Data App using Streamlit 
 
 This project was built using **Python 3.7** and **Streamlit**. It gets data from Yahoo Finance API, and show data related to companies listed in Brazilian Stock Market (IBOV) in a structured way.
 
