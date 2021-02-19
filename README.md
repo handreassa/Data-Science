@@ -3,7 +3,6 @@
 
 Data driven professional. Advanced knowledge in tools such as Teradata, Greenplum, SAS Enterprise Guide and Hadoop environment (Hive/Spark). Experience coding in shell script and Python. 
 
-Main interest areas: Data pipeline, machine learning, Python, Teradata, SAS, SQL, Shell script, Data Analytics, Big Data, Hive, Spark. 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/heriveltonandreassa/?locale=en_US)
