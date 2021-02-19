@@ -1,8 +1,8 @@
 # Web scrapping project - Viva Real - Curitiba apartment listings
 
-This project was built using mainly python and selenium to get some data about the apartment listing prices in Curitiba-PR-Brazil. The data was obtained from the Viva Real site, and processed using Python.
+This project was built using mainly python and selenium to collect information about the apartment listing prices in Curitiba-PR-Brazil. The data was obtained from the Viva Real site and processed using Python.
 
-The data was collect on 20210216 and it's not intended to be exhaustive.
+The data was collect on 20210216 and it's not intended to be exhaustive. Raw data also available.
 
 Libraries used:
 ```python
@@ -27,4 +27,10 @@ from geopy.extra.rate_limiter import RateLimiter
 
 
 Some visualization of the data:
+
+![alt text](https://github.com/handreassa/Data-Science/blob/main/viva-real_crawler/images/cwb_map.jpg "Map plot")
+
+![alt text](https://github.com/handreassa/Data-Science/blob/main/viva-real_crawler/images/cwb_map_zoom_in.jpg "Zoom in - map plot")
+
+
 
